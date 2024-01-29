@@ -248,7 +248,18 @@ footer {
 }
 
 footer div {
+    display: flex;
     padding: 10px;
     width: fit-content;
     color: #fff;
+}
+
+.email {
+    padding: 0px;
+    padding-left: 10px;
+}
+
+.tel {
+    padding: 0px;
+    padding-left: 10px;
 }
